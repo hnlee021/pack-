@@ -24,6 +24,7 @@ def main():
         opf.close()
         
         print("pre kcal = "+str(kcal))
+        
         print("insert kcal\n")
         kcal = int(input("")) + kcal
         opf = open(today+".txt", "w")
