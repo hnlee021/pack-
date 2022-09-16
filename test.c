@@ -6,5 +6,6 @@ int main(void) {
     printf("%d\n", &a);
 
     //abcdefg
+    //123123123
     return 0;
 }
